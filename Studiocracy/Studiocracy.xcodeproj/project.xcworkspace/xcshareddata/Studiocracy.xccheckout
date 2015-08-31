@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE7D22FF-DD78-42E7-B7DC-632A6294D372</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49067C262B0F6D6656900DC28C3A331ADBD24628</key>
+		<string>https://github.com/JCDJulian/studiocracy-mobile-ios.git</string>
+		<key>580E04D9295EB129B57A64FE0AA2D3322D9E0E73</key>
+		<string>https://github.com/Studiocracy/studiocracy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Studiocracy/Studiocracy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49067C262B0F6D6656900DC28C3A331ADBD24628</key>
+		<string>../../..</string>
+		<key>580E04D9295EB129B57A64FE0AA2D3322D9E0E73</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JCDJulian/studiocracy-mobile-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49067C262B0F6D6656900DC28C3A331ADBD24628</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>580E04D9295EB129B57A64FE0AA2D3322D9E0E73</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49067C262B0F6D6656900DC28C3A331ADBD24628</string>
+			<key>IDESourceControlWCCName</key>
+			<string>studiocracy-mobile-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
