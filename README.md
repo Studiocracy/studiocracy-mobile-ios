@@ -1,4 +1,4 @@
 # studiocracy-mobile-android
-studiocracy for android
+Studiocracy for iOS
 # How to Contribute
 * BY CONTRIBUTING TO THIS PROJECT, ALL CONTRIBUTORS AGREE TO THE TERMS LAID OUT IN THE CONTRIBUTOR LICENSE AGREEMENT, FOUND IN THE ROOT OF THE PROJECT.
